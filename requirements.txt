@@ -1,0 +1,6 @@
+pylint
+yamllint
+jsonlint
+bandit
+pyflakes
+#black https://github.com/psf/black
