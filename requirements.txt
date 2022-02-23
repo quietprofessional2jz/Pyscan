@@ -3,4 +3,4 @@ yamllint
 jsonlint
 bandit
 pyflakes
-#black https://github.com/psf/black
+black #https://github.com/psf/black
