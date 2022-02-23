@@ -1,5 +1,5 @@
 # Using LTS Ubuntu Focal
-FROM registry.gitlab.com/portfolio-collection/containers/images/python-base:latest
+FROM registry.gitlab.com/*/containers/images/python-base:latest
 
 COPY requirements.txt ./
 
